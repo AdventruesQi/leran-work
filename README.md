@@ -1,13 +1,13 @@
 <!--
  * @Author: Nithendo
  * @Date: 2023-06-03 17:39:59
- * @LastEditors: Nithendo
- * @LastEditTime: 2024-07-17 22:30:03
+ * @LastEditors: Nintendo
+ * @LastEditTime: 2024-08-01 15:46:37
  * @Description: 
 -->
-# fe-spec
+# lerna-work
 
-印客学院 前端编码规范工程化
+前端编码规范工程化
 
 ## :mountain: 能力支持
 
